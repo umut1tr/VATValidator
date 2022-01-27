@@ -1,0 +1,58 @@
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\appsettings.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\VATValidator.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\VATValidator.deps.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\VATValidator.runtimeconfig.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\VATValidator.runtimeconfig.dev.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\VATValidator.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\ref\VATValidator.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\VATValidator.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.csproj.AssemblyReference.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.AssemblyInfoInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.AssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\scopedcss\bundle\VATValidator.styles.css
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\staticwebassets\VATValidator.StaticWebAssets.Manifest.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.RazorTargetAssemblyInfo.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.csproj.CopyComplete
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\ref\VATValidator.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\obj\Debug\net5.0\VATValidator.genruntimeconfig.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# API\VATValidator\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\appsettings.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\VATValidator.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\VATValidator.deps.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\VATValidator.runtimeconfig.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\VATValidator.runtimeconfig.dev.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\VATValidator.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\ref\VATValidator.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\VATValidator.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.csproj.AssemblyReference.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.AssemblyInfoInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.AssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\scopedcss\bundle\VATValidator.styles.css
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\staticwebassets\VATValidator.StaticWebAssets.Manifest.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.RazorTargetAssemblyInfo.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.csproj.CopyComplete
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\ref\VATValidator.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\Arbeitsaufträge\Validator\obj\Debug\net5.0\VATValidator.genruntimeconfig.cache

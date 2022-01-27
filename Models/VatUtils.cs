@@ -5,6 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace VATValidator.Models
 {
+    
     internal class VatUtils
     {
         public string CountryCode { get; set; }
@@ -102,7 +103,6 @@ namespace VATValidator.Models
                     {
                         responseObject.CountryName = country.CountryName;
                     }
-
                     responseObject.VatNumber = vat;
                 }
             }

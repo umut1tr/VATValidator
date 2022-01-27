@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\Arbeitsaufträge\\Validator\\VATValidator.csproj",
+      "projectUniqueName": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\Arbeitsaufträge\\VATValidator\\VATValidator.csproj",
       "projectName": "VATValidator",
-      "projectPath": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\Arbeitsaufträge\\Validator\\VATValidator.csproj",
+      "projectPath": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\Arbeitsaufträge\\VATValidator\\VATValidator.csproj",
       "packagesPath": "C:\\Users\\utuerk.PBS-AUSTRIA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\Arbeitsaufträge\\Validator\\obj\\",
+      "outputPath": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\Arbeitsaufträge\\VATValidator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\utuerk.PBS-AUSTRIA\\AppData\\Roaming\\NuGet\\NuGet.Config",

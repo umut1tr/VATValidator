@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H7ugcwf812lc9Fyqhama0i9pbtbV8a9ClRrc0RN2a/11WXJYA9IaGugr+gznFbLFxffSV1VSJP10qKij8a0Uew==",
+  "dgSpecHash": "zr5AsHi0aEyWKZ/ZUZ7TXdpAtOjpkeETB3I5WM/3jO8ALo6P5Lov5iBwBT2eBHVBaNx38mxJFMlv/uqWvA6mBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\Arbeitsaufträge\\Validator\\VATValidator.csproj",
+  "projectFilePath": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\Arbeitsaufträge\\VATValidator\\VATValidator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utuerk.PBS-AUSTRIA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\utuerk.PBS-AUSTRIA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
